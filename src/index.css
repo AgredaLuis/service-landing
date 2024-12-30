@@ -5,14 +5,14 @@
 @tailwind utilities;
 
 :root {
-  font-family: "Poppins", sans-serif;
-  color-scheme: dark;
+	font-family: "Poppins", sans-serif;
+	color-scheme: dark;
 }
 
 html {
-  scroll-behavior: smooth;
+	scroll-behavior: smooth;
 }
 
 .primary-btn {
-  @apply bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md transition-all duration-200 hover:opacity-70 tracking-wider;
+	@apply bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md transition-all duration-200 hover:opacity-70 tracking-wider;
 }
