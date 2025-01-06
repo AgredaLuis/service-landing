@@ -1,15 +1,18 @@
 export const pricingOptions = [
-  {
-    title: "Free",
-    price: "$0",
-    features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Hosting & Domain",
-    ],
-  },
-  /*  {
+	{
+		title: "Free",
+		price: "$0",
+		features: [
+			"Private board sharing",
+			"5 Gb Storage",
+			"Web Analytics",
+			"Hosting & Domain",
+			"Landing, Web Small MVP",
+			"Changes to existing development",
+			"6 months guaranteed uptime"
+		]
+	}
+	/*  {
     title: "Pro",
     price: "$10",
     features: [
@@ -19,7 +22,7 @@ export const pricingOptions = [
       "Private Mode",
     ],
   }, */
-  /* {
+	/* {
     title: "Enterprise",
     price: "$200",
     features: [
